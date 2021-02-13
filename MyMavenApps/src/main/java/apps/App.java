@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("New jenkins build check");
+        System.out.println(" Adding new line to test jenkins build");
     }
 }
